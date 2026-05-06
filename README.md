@@ -2,7 +2,7 @@ School Management System
 
 Technologies Used:
 
-Frontend
+##Frontend
 
 * React
 * Vite
@@ -10,7 +10,7 @@ Frontend
 * Axios
 * CSS
 
-Backend
+##Backend
 
 * Node.js
 * Express.js
@@ -19,24 +19,20 @@ Backend
 * bcrypt
 * Multer
 
-Database
+##Database
 
 * MySQL
 
-Run the Project
+##Run the Project
 
 Backend
 
-cd backend
-
-npm install
-
-npm run dev
+cd backend.
+npm install.
+npm run dev.
 
 Frontend
 
-cd frontend
-
-npm install
-
-npm run dev
+cd frontend.
+npm install.
+npm run dev.
